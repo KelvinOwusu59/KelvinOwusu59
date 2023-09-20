@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kelvin Owusu</h1>
-<h3 align="center">Aspiring Software Engineer 💻 | Passionate about innovation and problem-solving 🔍</h3>
+<h3 align="center">Aspiring Software Engineer 💻 </h3>
 - 🔭 I’m currently working on **🎬 Reimagining Video Streaming 🌟 | YouTube Clone Project Enthusiast 💡 | Lights, Camera, Code! 🎥**
 
 - 🌱 I’m currently learning **Frameworks,Go, Ruby, Swift, Rust**
