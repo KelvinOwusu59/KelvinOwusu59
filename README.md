@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin Owusu</h1>
-<h3 align="center">Software Engineer | Co-Founder of <a href="https://stylesyncs.com" target="_blank">StyleSyncs</a> | CS & Math @ Colby College</h3>
+<h3 align="center">Software Engineer </h3>
 
 - 🚀 Co-Founder & Lead Software Engineer at <a href="https://stylesyncs.com" target="_blank">StyleSyncs</a>, an AI-driven digital wardrobe and fashion marketplace platform  
 - 👯 Open to collaborating on **full-stack projects, scalable systems, and AI-driven applications**  
