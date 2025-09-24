@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/kelvin-owusu-bb3922253**
 
-- ⚡ Fun fact **I once wrote a program that generated random dad jokes for a whole day without repeating a single one! 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
